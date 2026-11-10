@@ -1,4 +1,4 @@
-# getthroughline-ai
+# Throughline
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,100 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-getthroughline-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://getthroughline.ai/
+Throughline is an AI companion platform that offers a continuing AI Self with character, interests, and developing judgment. Users can meet a Self, build shared history, and export or import memories. Plans include Free, Pro ($9.99/mo), and Alive ($19.99/mo) with additional features. The service is available via web, Android app, and upcoming iPhone app, with integrations for Claude Code and Codex.
+
+**Areas:** AI · Companion · Lifestyle · Chatbot · Throughline
+
+## Throughline on APIs.io
+
+Everything profiled for Throughline is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/getthroughline-ai/](https://apis.io/providers/getthroughline-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Throughline API](https://apis.io/apis/getthroughline-ai/throughline-api/) — The portable-self store API for Throughline
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Throughline Domain Security](https://apis.io/security/getthroughline-ai/getthroughline-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Throughline Plans Pricing](https://apis.io/plans/getthroughline-ai/getthroughline-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://getthroughline.ai/)
+- [Documentation](https://getthroughline.ai/docs)
+- [API reference](https://getthroughline.ai/spec)
+- [Pricing](https://getthroughline.ai/pricing)
+- [Sign up](https://getthroughline.ai/login)
+- [Changelog](https://getthroughline.ai/changelog)
+- [Blog](https://getthroughline.ai/blog)
+- [Terms of service](https://getthroughline.ai/terms)
+- [Privacy policy](https://getthroughline.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 34.2** — thin · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 28.2 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 73.2 |
+
+**Agent readiness 34.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.2** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/getthroughline-ai/](https://apis.io/providers/getthroughline-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Throughline: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/getthroughline-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
